@@ -1,4 +1,4 @@
-// ১. Operational Function
+//Operational Function
 function addition(a, b) {
   return a + b;
 }
@@ -44,4 +44,5 @@ console.log(calculator("subtract", 10, 5));
 console.log(calculator("multiply", 4, 3)); 
 console.log(calculator("divide", 20, 4));
 console.log(calculator("divide", 10, 0)); 
+
 console.log(calculator("invalid", 5, 3)); 
